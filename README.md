@@ -1,6 +1,6 @@
 # Solidity_joint_savings_account
 
-![An image for the header of the Repository](./images/eth.png)
+![An image for the header of the Repository](./Images/eth.png)
 
 This is an implementation of a joint savings account's features using a Solidity smart contract that includes ether management functions. The smart contract only allows two specific addresses to access and control the joint savings account. The account holders can add funds to and remove funds from the account through the smart contract.
 
@@ -13,9 +13,9 @@ This is an implementation of a joint savings account's features using a Solidity
 
 ---
 ### ScreenShots
-![An image for the header of the Repository](./images/screenshot1.png)
+![An image for the header of the Repository](./Images/screenshot1.png)
 
-![An image for the header of the Repository](./images/screenshot2.png)
+![An image for the header of the Repository](./Images/screenshot2.png)
 
 --
 ### Instructions
